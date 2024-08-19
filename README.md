@@ -16,7 +16,6 @@
 ### Clicked on Ad: Indicator of whether the consumer clicked on the ad (binary: 0 or 1).
 
 # Libraries Used
-
 ### pandas (pd): Data manipulation and analysis.
 ### numpy (np): Numerical operations.
 ### seaborn (sns): Statistical data visualization.
@@ -29,8 +28,8 @@
 ### confusion_matrix: Matrix for evaluating classification performance.
 
 # Project Workflow
-Data Exploration and Visualization: Analyze and visualize the dataset to understand its structure and features.
-Preprocessing: Clean and preprocess the data to handle any missing values or inconsistencies.
-Feature Engineering: Extract and create relevant features for the predictive model.
-Model Building: Train a machine learning model to predict ad clicks based on user features.
-Evaluation: Assess the model's performance using various metrics and refine it as necessary.
+### Data Exploration and Visualization: Analyze and visualize the dataset to understand its structure and features.
+### Preprocessing: Clean and preprocess the data to handle any missing values or inconsistencies.
+### Feature Engineering: Extract and create relevant features for the predictive model.
+### Model Building: Train a machine learning model to predict ad clicks based on user features.
+### Evaluation: Assess the model's performance using various metrics and refine it as necessary.
